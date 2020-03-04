@@ -1,3 +1,11 @@
+/*
+Advanced Wearable
+Modified by Bomi
+OCADU
+Created on [date]
+Based on:
+Circuit Playground Express Perk-up Ears
+
 """
 Circuit Playground Express sounds activated ears.
  
@@ -11,7 +19,8 @@ Licensed under the MIT license.
  
 All text above must be included in any redistribution.
 """
- 
+*/
+
 import time
 import math
 import array
