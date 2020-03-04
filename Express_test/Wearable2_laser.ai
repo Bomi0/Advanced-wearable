@@ -1,0 +1,113 @@
+%!PS-Adobe-3.0
+%%Creator: Rhinoceros
+%%Title: (Wearable2_laser.ai)
+%%BoundingBox: 210 278 369 492
+%%DocumentProcessColors: Black
+%%DocumentNeededResources: procset Adobe_packedarray 2.0 0
+%%+ procset Adobe_cmykcolor 1.1 0
+%%+ procset Adobe_cshow 1.1 0
+%%+ procset Adobe_customcolor 1.0 0
+%%+ procset Adobe_typography_AI3 1.0 0
+%%+ procset Adobe_IllustratorA_AI3 1.0 0
+%AI3_ColorUsage: Color
+%AI3_TemplateBox: 288 384 288 384
+%AI3_TileBox: 0 0 576 768
+%AI3_DocumentPreview: None
+%%Template:
+%%PageOrigin:0 0
+%%EndComments
+%%BeginProlog
+%%IncludeResource: procset Adobe_packedarray 2.0 0
+Adobe_packedarray /initialize get exec
+%%IncludeResource: procset Adobe_cmykcolor 1.1 0
+%%IncludeResource: procset Adobe_cshow 1.1 0
+%%IncludeResource: procset Adobe_customcolor 1.0 0
+%%IncludeResource: procset Adobe_typography_AI3 1.0 0
+%%IncludeResource: procset Adobe_IllustratorA_AI3 1.0 0
+%%EndProlog
+%%BeginSetup
+Adobe_cmykcolor /initialize get exec
+Adobe_cshow /initialize get exec
+Adobe_customcolor /initialize get exec
+Adobe_typography_AI3 /initialize get exec
+Adobe_IllustratorA_AI3 /initialize get exec
+%%EndSetup
+%AI5_BeginLayer
+1 1 1 1 0 0 -1 0 0 0 Lb
+(Default) Ln
+0 A
+0 R
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+368.3784 310.4583 m
+368.3784 432.2569 L
+353.6296 432.2569 L
+353.6296 310.4583 L
+368.3784 310.4583 L
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+211.1360 442.6854 m
+211.1360 404.6663 211.1360 366.6472 211.1360 328.6282 c
+211.1360 315.5895 216.3156 303.0849 225.5352 293.8652 c
+234.7550 284.6453 247.2598 279.4656 260.2986 279.4656 c
+279.3081 279.4656 298.3177 279.4656 317.3272 279.4656 c
+317.3272 350.2597 317.3272 421.0538 317.3272 491.8480 c
+298.3177 491.8480 279.3081 491.8480 260.2986 491.8480 c
+247.2600 491.8480 234.7554 486.6684 225.5356 477.4487 c
+216.3157 468.2290 211.1360 455.7242 211.1360 442.6854 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+220.8211 442.6854 m
+220.8211 404.6663 220.8211 366.6472 220.8211 328.6282 c
+220.8211 318.1582 224.9802 308.1169 232.3836 300.7135 c
+239.7871 293.3099 249.8284 289.1506 260.2986 289.1506 c
+276.0798 289.1506 291.8610 289.1506 307.6422 289.1506 c
+307.6422 353.4881 307.6422 417.8255 307.6422 482.1629 c
+291.8610 482.1629 276.0798 482.1629 260.2986 482.1629 c
+249.8286 482.1629 239.7874 478.0038 232.3839 470.6004 c
+224.9803 463.1969 220.8211 453.1555 220.8211 442.6854 C
+s
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+353.6296 432.2569 m
+368.3784 432.2569 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+328.9898 432.2569 m
+343.7385 432.2569 L
+S
+0.0000 0.0000 0.0000 XA
+0.0000 0.0000 0.0000 Xa
+0 i 1 J 1 j 1.0000 w 4 M []0 d
+0 D
+343.7385 310.4583 m
+343.7385 432.2569 L
+328.9898 432.2569 L
+328.9898 310.4583 L
+343.7385 310.4583 L
+s
+LB
+%AI5_EndLayer--
+%%PageTrailer
+gsave annotatepage grestore showpage
+%%Trailer
+Adobe_IllustratorA_AI3 /terminate get exec
+Adobe_typography_AI3 /terminate get exec
+Adobe_customcolor /terminate get exec
+Adobe_cshow /terminate get exec
+Adobe_cmykcolor /terminate get exec
+Adobe_packedarray /terminate get exec
+%%EOF
